@@ -6,8 +6,8 @@ Step 1. Install MIPAV at https://mipav.cit.nih.gov
 Step 2. copy the file convert_dicom.sh under MIPAV folder. e.g /Application/mipav/ for mac. Run the shell bash file "convert_dicom.sh" using command $bash convert_dicom.sh.
 The default file structure is :
 (in this example, the image in patient_number1 is consecutive slices of MRI)
-folder_where_you_have_the_image/patient_number1/patient_number1_000.png \n
-                                                patient_number1_001.png \n
+folder_where_you_have_the_image/patient_number1/patient_number1_000.png 
+                                                patient_number1_001.png 
                                                 ....
 folder_where_you_have_the_image/patient_number2/patient_number2_000.png
                                                 patient_number2_001.png
